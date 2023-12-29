@@ -37,5 +37,5 @@
 <h2 align="center">📊 Статистика профиля</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваше-имя-пользователя&show_icons=true&theme=dark" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markgregr&show_icons=true&theme=dark" alt="Статистика GitHub" />
 </p>
