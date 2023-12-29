@@ -18,6 +18,8 @@
 <p align="left">
   <a href="https://instagram.com/_markgregr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_markgregr_" height="30" width="40" /></a>
   <a href="https://discord.gg/#2997" target="пустой"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2997" height="30" width="40" /></a>
+  <a href="https://vk.com/your_vk_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="Ваш VK" height="30" width="40" /></a>
+  <a href="https://t.me/your_telegram_username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Ваш Telegram" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">🛠️ Стек технологий</h2>
