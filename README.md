@@ -14,13 +14,15 @@
 - 🚀 **Участие в сообществе:** Активное участие в хакатонах, где не только разрабатываются проекты, но и внедряются новые идеи и технологии.
 - 🌱 **Обучение:** Продолжающий обучение на 3 курсе, стремление к постоянному росту и изучению новых технологий.
 
-<h3 align="left">Связаться со мной:</h3>
-<p align="left">
-  <a href="https://instagram.com/_markgregr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_markgregr_" height="30" width="40" /></a>
-  <a href="https://discord.gg/#2997" target="пустой"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2997" height="30" width="40" /></a>
-  <a href="https://vk.com/markgregr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK" height="30" width="40" /></a>
-  <a href="https://t.me/markgregr" target="blank"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a>
-</p>
+<div id="badges">
+  <h3 align="left">Связаться со мной:</h3>
+    <a href="https://t.me/markgregr" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/markgregr" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
 
 <h2 align="center">🛠️ Стек технологий</h2>
 
