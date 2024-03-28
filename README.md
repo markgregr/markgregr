@@ -71,7 +71,7 @@
 </p>
 
 
-<h2 align="center">📊 Статистика коммитов</h2>
+<h2 align="center">📊 Статистика</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markgregr&hide=prs,issues&count_private=true&show_icons=true&theme=dark" alt="Статистика GitHub" />
