@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, Я Марк.</h1>
 <h3 align="center">Go разработчик</h3>
 
-🔭 В настоящее время я работаю над [Студенческим проектом](https://github.com/SicParv1sMagna/NetworkingDataLinkLayer/tree/feature/channel-layer)
+🔭 В настоящее время я работаю над [Студенческим проектом](https://github.com/SicParv1sMagna/NetworkingDataLinkLayer/tree/feature/channel-layer), [GRPC сервер](https://github.com/markgregr/FruitfulFriends-gRPC-server), [REST сервер с gRPC клиентом](https://github.com/markgregr/FruitfulFriends-REST-API-server)
 
 🌱 В настоящее время изучаю **Golang**
 
